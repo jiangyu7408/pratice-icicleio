@@ -1,0 +1,19 @@
+{
+    "name": "jiangyu7408/practice-icicleio",
+    "description": "practice of icicleio",
+    "license": "unlicense",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {
+        "php": ">=5.5"
+    },
+    "require-dev": {
+        "phpunit/php-timer": ">=1.0.6",
+        "phpunit/phpunit": "4.6.*",
+        "sebastian/phpcpd": "*",
+        "icicleio/icicle": "^0.7"
+    }
+}
